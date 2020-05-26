@@ -26,12 +26,6 @@ def update_status
  end
  p update_status
 
-   
-   
-   
-   
-
-
   # Write code that changes the status of both Romeo and Juliet from "alive" to "dead"
   # Code your solution here:
   #
